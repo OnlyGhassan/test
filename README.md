@@ -7,21 +7,13 @@ I would like to extend my deepest gratitude to the Deanship of e-Learning and Di
 This report details the experiences and insights gained during my summer training at the Deanship of e-Learning and Distance Education. The training encompassed a wide range of topics, including API integration, backend development using C# in .NET Core and MVC, networking, user experience (UX) design, and front-end development. Key projects included developing solutions to identify and categorize session attendees using API parameters, analyzing employment contracts, and enhancing networking capabilities. Throughout the training, I gained practical experience in using tools such as Postman for API testing, Figma for design, and HTML, CSS, and JavaScript for web development. Additionally, I delved into backend development, working with C# in .NET Core and MVC to create robust applications. Networking fundamentals were also covered, providing insights into the infrastructure and protocols that support modern web applications. The training not only enhanced my technical skills but also provided a deeper understanding of real-world applications of information systems in an educational context. This report covers the tasks performed, challenges encountered, and solutions implemented, along with reflections on the overall learning experience.
 
 ## Table of Contents
-1. Introduction
-2. Training Plan
-3. Goals of the Training Plan
-4. Projects and Tasks
-5. Weekly Activities
-   - Week 1
-   - Week 2
-   - Week 3
-   - Week 4
-   - Week 5
-   - Week 6
-   - Week 7
-   - Week 8
-6. Additional Acknowledgments
-7. Final Thoughts
+- [Introduction](#Introduction)
+- [Training Plan](#Training-Plan)
+- [Goals of the Training Plan](#Goals-of-the-Training-Plan)
+- [ Projects and Tasks](#Projects-and-Tasks)
+- [Weekly Activities](#Weekly-Activities)
+- [Additional Acknowledgments](#Additional-Acknowledgments)
+- [Final Thoughts](#Final-Thoughts)
 
 ---
 
