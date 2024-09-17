@@ -5,8 +5,8 @@
 **Slide 1: Title Slide**
 - **Title**: VR Interview Simulator with AI Integration
 - **Subtitle**: Revolutionizing the Interview Process with Virtual Reality and Artificial Intelligence
-- **Presented by**: [Your Team/Company Name]
-- **Date**: Insert Date
+- **Presented by**: Ghassan Alghamdi, Abdulrahman Alqarni, Basil Alzahrani
+- **Date**: 18/9/2024
 
 ---
 
