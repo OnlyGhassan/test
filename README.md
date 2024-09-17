@@ -6,7 +6,7 @@
 - **Title**: VR Interview Simulator with AI Integration
 - **Subtitle**: Revolutionizing the Interview Process with Virtual Reality and Artificial Intelligence
 - **Presented by**: [Your Team/Company Name]
-- **Date**: [Insert Date]
+- **Date**: Insert Date
 
 ---
 
