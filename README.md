@@ -24,7 +24,7 @@ In adherence to ethical research practices, all participants were provided with 
 To identify the specific pain points and areas for improvement in the Jarir app, we structured our study around several key research questions:
 
 1. **Age?**  
-   '''Understanding the age range of users helps us tailor the app's design to the needs of different age groups.'''
+   ```Understanding the age range of users helps us tailor the app's design to the needs of different age groups.```
 
 2. **How would you describe yourself?**  
    (For example, as a frequent online shopper, tech- experience, etc.) This helps measure the user's comfort level with technology and online shopping platforms.
