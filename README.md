@@ -1,4 +1,4 @@
-### **1. Protocol of the Study**
+## **1. Protocol of the Study**
 
 **Research Objective:**  
 The primary objective of this study is to identify the weaknesses and areas for improvement in the user interface (UI) of the Jarir app. We aim to understand how users interact with the current design and whether it provides a seamless and intuitive shopping experience, especially compared to other popular e-commerce platforms like Amazon.
