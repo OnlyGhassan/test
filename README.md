@@ -1,89 +1,26 @@
-## **1. Protocol of the Study**
+### Literature Review: Virtual Reality (VR) in Interview Simulations
 
-**Research Objective:**  
-The primary objective of this study is to identify the weaknesses and areas for improvement in the user interface (UI) of the Jarir app. We aim to understand how users interact with the current design and whether it provides a seamless and intuitive shopping experience, especially compared to other popular e-commerce platforms like Amazon.
+The integration of Virtual Reality (VR) into learning and assessment environments has gained significant attention over the years. VR technology offers immersive experiences that can revolutionize traditional approaches to both learning and evaluation. In the context of interview simulations, VR enables a unique platform that can replicate real-world scenarios in an interactive and controlled environment. This literature review explores key themes relevant to the VR-based interview simulator project, highlighting the benefits of experiential learning, visualization, motivation, collaboration, and assessment in VR environments.
 
-**Study Method:**  
-We conducted the study using two primary methods:
-- **Survey:** This method allowed us to gather quantitative data from a larger number of participants quickly. Users were asked a series of structured questions related to their experience with the Jarir app, their general online shopping habits, and their feedback on specific UI elements.
-- **Direct Observation:** In this method, participants were asked to use the app while we observed their actions in real time. This allowed us to collect qualitative data on how users interact with the app, where they struggle, and how efficiently they can complete tasks such as searching for products, adding them to the cart, or navigating menus.
+#### 1. Experiential and Active Learning
+VR provides an ideal platform for **experiential learning**, a pedagogical approach that emphasizes learning through experience and active engagement. Unlike traditional interview training methods, which may rely on passive observation or limited role-playing, VR allows candidates to immerse themselves in simulated interview environments that replicate real-world scenarios. As learners interact within virtual environments (VEs), they are encouraged to **actively participate** rather than merely observe, creating a more impactful learning experience. This interactive nature is crucial in an interview setting, where practicing responses in real-time with virtual interviewers can lead to improved performance and preparedness. As VR systems create dynamic environments, learners can gain experience in a variety of interview contexts, from technical IT positions to management roles, providing them with diverse skills applicable in real-world interviews (source: **Experiential and Active Learning**).
 
-**Study Setup:**  
-The study took place in two phases:
-- **Survey Setup:** Participants were messaged a link to an online survey created using Google Forms. The survey consisted of multiple-choice questions, Likert scale ratings, and open-ended questions to gather comprehensive feedback. We distributed the survey to users across various demographics to ensure diverse feedback.
-  
-- **Direct Observation Setup:** We selected a group of users from different age groups and levels of tech-experience for this phase. They were invited to a quiet lab setting where they were given access to a device (tablet or smartphone) with the Jarir app installed. During each session, participants were asked to complete several tasks such as searching for a product, comparing prices, and navigating the app’s menus. We used note to write/capture their interactions, and note-taking software for logging behaviors and comments made during the session.
+#### 2. Visualization and Reification
+**Visualization** is a critical element of VR, offering novel ways to represent and interact with information. In the context of an interview simulator, VR can visualize the interview process by creating realistic environments and avatars that mimic real-life settings, making the interview experience more authentic. Visualization in VR enables the **manipulation and arrangement** of various forms of data, such as visual feedback on body language, speech pacing, and clarity of answers. By presenting interview feedback in a visual format, candidates can **reify** their progress, understanding abstract concepts like confidence, clarity, and technical skills in a tangible way. This visualization can help users recognize and improve their weaknesses, creating a deeper connection between the learning objectives and their real-world applications (source: **Visualization and Reification**).
 
-**Ethical Considerations:**  
-In adherence to ethical research practices, all participants were provided with an informed consent form prior to the study. This form outlined the purpose of the study, the methods used, and the length of time participants would need to commit. Participants were assured of their anonymity; any data collected was anonymized to prevent identifying individuals. Additionally, we made it clear that their participation was voluntary and that they could withdraw at any time without any consequences. Notes records and survey responses were stored securely and only accessible to the research team for analysis.
+#### 3. Learning in Contexts Impossible or Difficult to Experience in Real Life
+One of the greatest strengths of VR is its ability to create environments and scenarios that would be **impossible or difficult to replicate** in real life. In the case of a VR interview simulator, users can practice interviews in settings that would normally be hard to simulate. For example, candidates can experience interviews with different levels of difficulty or interview panels consisting of multiple interviewers. Additionally, the simulator can present **diverse contexts** such as remote job interviews or interviews for different sectors (e.g., technology, management, creative industries). Such contexts allow candidates to gain experience in situations they may not have the opportunity to encounter prior to the actual interview. This feature is particularly useful for individuals seeking international or highly specialized roles, providing invaluable preparation that is otherwise inaccessible in real life (source: **Learning in Contexts**).
 
----
+#### 4. Motivation Enhancement
+Interacting with a VR model can greatly enhance **motivation** for learners. In comparison to traditional interview training, which can sometimes feel repetitive or uninspiring, VR offers an engaging and immersive experience. For candidates who struggle with maintaining focus or motivation, the interactive nature of VR can transform the interview preparation process into a more stimulating and enjoyable activity. Furthermore, introducing **game-like elements**—such as scoring systems, feedback loops, and achievement badges—can make learning more engaging, encouraging users to continually improve their performance. This is especially beneficial in the context of interview preparation, where repeated practice is often essential for success (source: **Motivation Enhancement**).
 
-### **2. Research Questions**
+#### 5. Collaboration Fostering
+In addition to individual learning, VR has the potential to foster **collaboration**. A shared VR environment can simulate group interviews or collaborative problem-solving tasks, allowing candidates to practice in team-based interview scenarios. This can help develop skills such as communication, teamwork, and conflict resolution, which are increasingly important in many job roles. Collaboration within VR also enables interviewers or educators to **share feedback in real time**, guiding candidates through the process and helping them improve interactively. These shared experiences can create an environment where candidates are not only evaluated individually but can also work with others, mimicking real-life job interactions (source: **Collaboration Fostering**).
 
-To identify the specific pain points and areas for improvement in the Jarir app, we structured our study around several key research questions:
+#### 6. Evaluation and Assessment
+One of the most valuable aspects of using VR in interview simulations is the ability to integrate **evaluation and assessment** seamlessly into the experience. Since every interaction in the VR environment can be **monitored and recorded**, interviewers or the system itself can assess the candidate's performance in real-time. This could include tracking metrics such as response time, clarity, non-verbal cues, and the appropriateness of answers to specific questions. Furthermore, the system can generate a detailed **performance report**, offering insights into both strengths and areas for improvement. This feedback loop is essential for continuous learning and development, ensuring that candidates are aware of their performance and can make necessary adjustments before the actual interview (source: **Evaluation and Assessment**).
 
-1. **Age?**  
-   ```Understanding the age range of users helps us tailor the app's design to the needs of different age groups.```
+### Conclusion
+The literature on VR as a tool for learning and assessment underscores its relevance to the development of a VR interview simulator. The immersive nature of VR provides candidates with a platform for **experiential learning**, enhances motivation, fosters collaboration, and offers innovative visualization techniques. Most importantly, the potential for **evaluation and assessment** in VR environments ensures that candidates receive comprehensive feedback, which is crucial for their development and preparation for real-world job interviews. By incorporating these elements into the VR interview simulator, the project aligns with the broader educational and technological trends in virtual reality, making it a highly effective tool for both learners and evaluators.
 
-2. **How would you describe yourself?**  
-   (For example, as a frequent online shopper, tech- experience, etc.) This helps measure the user's comfort level with technology and online shopping platforms.
-
-3. **How would you describe your experience with online shopping?**  
-   This question helps assess the user's familiarity with online shopping, which can influence their feedback on the UI.
-
-4. **What are the most popular websites you use for online shopping?**  
-   Identifying other platforms they use allows us to compare their experiences and understand what they might expect from Jarir based on other platforms like Amazon.
-
-5. **Have you ever used the Jarir app?**  
-   A simple yes/no question to categorize experienced users versus first-timers.
-
-6. **What is your usage rate of the app?**  
-   Whether the user is a frequent or occasional user can indicate their level of familiarity with the app's interface.
-
-7. **If you are using or will use the app, what is your biggest goal in using it?**  
-   Understanding the primary reason users visit the app (e.g., browsing, purchasing, comparing prices) helps us evaluate how well the UI supports these goals.
-
-8. **Does the presence of so many advertisement images on the homepage confuse you?**  
-   Aimed at understanding if the heavy use of ads affects the user experience negatively.
-
-9. **Do you have a problem with having options that you might not use in your life, like the "Jarir Card" in the bottom navigation bar?**  
-   This question measure how users perceive the relevance of certain navigation elements and whether clutter is an issue.
-
-10. **Do you prefer having multiple pages when searching for a single product with different specifications, or a single page for the product with the option to choose the specifications?**  
-    This addresses user preferences regarding search and product navigation, which can affect how efficiently they find and select items.
-
-11. **Can you guess the meaning from the icon shown in red simply?**  
-    A quick test of whether the app's icons are intuitive and communicate their functions clearly.
-
-12. **What do you think about a product comparison page?**  
-    Exploring user interest in a potential new feature for comparing products directly within the app.
-
-13. **Do you think it's normal for the "add to cart" button to disappear without clearly informing the user of the reason?**  
-    This question aims to investigate potential usability issues that frustrate users, particularly with essential functions like adding items to the cart.
-
-14. **How satisfied are you with the results of your search or your use of the product search feature?**  
-    Measuring user satisfaction with the search functionality, one of the key areas in any e-commerce app.
-
-15. **How satisfied are you with navigating through the menus? (Like the ease of changing the language, the ease of finding your profile, and the ease of accessing customer service)**  
-    Assessing the overall ease of use and intuitive design of the app's menus.
-
-16. **Does it annoy you to open the "Report Technical Issues" page every time you take a picture from the app?**  
-    Investigating whether certain automatic behaviors in the app, such as reporting technical issues, are disrupting the user experience.
-
-17. **How would you rate your experience on the registration page as a new user?**  
-    The onboarding process is crucial for first-time users, and this question explores how seamless or difficult that experience is.
-
-18. **Did the application keep asking you about your country throughout the different stages of your experience with your request to enter it?**  
-    Investigating whether repetitive input requests are a common pain point for users.
-
-19. **Have you encountered any other issues, whether technical or non-technical, with the Jarir application? And what is it?**  
-    This open-ended question allows users to report any additional issues they faced during their interaction with the app.
-
-20. **Do you have any ideas or improvements you would like to see in the Jarir application?**  
-    Gathering user suggestions helps provide concrete, actionable feedback to improve the app.
-
----
-
-**Hypotheses:**  
-We expect that users will generally be dissatisfied with several aspects of the Jarir app UI, particularly regarding the navigation structure, cluttered advertisement-heavy layout, and the inefficiency of the product search and checkout process.
+Source: **Citeseerx - Experiential Learning in Virtual Environments** (https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c7f8d19850f4a88655fe81caea89912dcad66241)
