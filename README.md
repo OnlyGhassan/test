@@ -1,26 +1,109 @@
-### Literature Review: Virtual Reality (VR) in Interview Simulations
+### Presentation: VR Interview Simulator Project - Progress and Development Overview
 
-The integration of Virtual Reality (VR) into learning and assessment environments has gained significant attention over the years. VR technology offers immersive experiences that can revolutionize traditional approaches to both learning and evaluation. In the context of interview simulations, VR enables a unique platform that can replicate real-world scenarios in an interactive and controlled environment. This literature review explores key themes relevant to the VR-based interview simulator project, highlighting the benefits of experiential learning, visualization, motivation, collaboration, and assessment in VR environments.
+---
 
-#### 1. Experiential and Active Learning
-VR provides an ideal platform for **experiential learning**, a pedagogical approach that emphasizes learning through experience and active engagement. Unlike traditional interview training methods, which may rely on passive observation or limited role-playing, VR allows candidates to immerse themselves in simulated interview environments that replicate real-world scenarios. As learners interact within virtual environments (VEs), they are encouraged to **actively participate** rather than merely observe, creating a more impactful learning experience. This interactive nature is crucial in an interview setting, where practicing responses in real-time with virtual interviewers can lead to improved performance and preparedness. As VR systems create dynamic environments, learners can gain experience in a variety of interview contexts, from technical IT positions to management roles, providing them with diverse skills applicable in real-world interviews (source: **Experiential and Active Learning**).
+#### **Slide 1: Title Slide**
+- **Project**: VR Interview Simulator
+- **Presented by**: [Your Name/Team Members]
+- **Date**: [Insert Date]
+- **Purpose**: Overview of project updates, methods, skills, and future plans
 
-#### 2. Visualization and Reification
-**Visualization** is a critical element of VR, offering novel ways to represent and interact with information. In the context of an interview simulator, VR can visualize the interview process by creating realistic environments and avatars that mimic real-life settings, making the interview experience more authentic. Visualization in VR enables the **manipulation and arrangement** of various forms of data, such as visual feedback on body language, speech pacing, and clarity of answers. By presenting interview feedback in a visual format, candidates can **reify** their progress, understanding abstract concepts like confidence, clarity, and technical skills in a tangible way. This visualization can help users recognize and improve their weaknesses, creating a deeper connection between the learning objectives and their real-world applications (source: **Visualization and Reification**).
+---
 
-#### 3. Learning in Contexts Impossible or Difficult to Experience in Real Life
-One of the greatest strengths of VR is its ability to create environments and scenarios that would be **impossible or difficult to replicate** in real life. In the case of a VR interview simulator, users can practice interviews in settings that would normally be hard to simulate. For example, candidates can experience interviews with different levels of difficulty or interview panels consisting of multiple interviewers. Additionally, the simulator can present **diverse contexts** such as remote job interviews or interviews for different sectors (e.g., technology, management, creative industries). Such contexts allow candidates to gain experience in situations they may not have the opportunity to encounter prior to the actual interview. This feature is particularly useful for individuals seeking international or highly specialized roles, providing invaluable preparation that is otherwise inaccessible in real life (source: **Learning in Contexts**).
+#### **Slide 2: Project Proposal Updates**
+**Question**: *What changes have you made to your project proposal in light of your progress so far and your supervisor and committee feedback?*
 
-#### 4. Motivation Enhancement
-Interacting with a VR model can greatly enhance **motivation** for learners. In comparison to traditional interview training, which can sometimes feel repetitive or uninspiring, VR offers an engaging and immersive experience. For candidates who struggle with maintaining focus or motivation, the interactive nature of VR can transform the interview preparation process into a more stimulating and enjoyable activity. Furthermore, introducing **game-like elements**—such as scoring systems, feedback loops, and achievement badges—can make learning more engaging, encouraging users to continually improve their performance. This is especially beneficial in the context of interview preparation, where repeated practice is often essential for success (source: **Motivation Enhancement**).
+- **Changes Made**:
+  - **Shift from ChatGPT to Custom Models**: Originally planned to use ChatGPT for key functionalities; changed to building custom AI models.
+  - **Custom Model Prioritization**: Developed a priority list for model creation:
+    - **1. Question Generation Model**
+    - **2. CV Analysis Model**
+    - **3. Semantic Similarity Model**
+    - **4. Voice-to-Text**
+    - **5. Text-to-Voice**
 
-#### 5. Collaboration Fostering
-In addition to individual learning, VR has the potential to foster **collaboration**. A shared VR environment can simulate group interviews or collaborative problem-solving tasks, allowing candidates to practice in team-based interview scenarios. This can help develop skills such as communication, teamwork, and conflict resolution, which are increasingly important in many job roles. Collaboration within VR also enables interviewers or educators to **share feedback in real time**, guiding candidates through the process and helping them improve interactively. These shared experiences can create an environment where candidates are not only evaluated individually but can also work with others, mimicking real-life job interactions (source: **Collaboration Fostering**).
+- **Reasons & Improvements**:
+  - **Increased Customization**: Custom models tailored to the project allow more relevant and adaptive features, such as personalized questions and accurate feedback.
+  - **Enhanced Realism**: Voice models enhance the simulation’s lifelike qualities, providing a more immersive experience for users.
+  - **Direct Alignment with Project Goals**: By developing these specific models, we can better meet the simulator’s objectives.
 
-#### 6. Evaluation and Assessment
-One of the most valuable aspects of using VR in interview simulations is the ability to integrate **evaluation and assessment** seamlessly into the experience. Since every interaction in the VR environment can be **monitored and recorded**, interviewers or the system itself can assess the candidate's performance in real-time. This could include tracking metrics such as response time, clarity, non-verbal cues, and the appropriateness of answers to specific questions. Furthermore, the system can generate a detailed **performance report**, offering insights into both strengths and areas for improvement. This feedback loop is essential for continuous learning and development, ensuring that candidates are aware of their performance and can make necessary adjustments before the actual interview (source: **Evaluation and Assessment**).
+---
 
-### Conclusion
-The literature on VR as a tool for learning and assessment underscores its relevance to the development of a VR interview simulator. The immersive nature of VR provides candidates with a platform for **experiential learning**, enhances motivation, fosters collaboration, and offers innovative visualization techniques. Most importantly, the potential for **evaluation and assessment** in VR environments ensures that candidates receive comprehensive feedback, which is crucial for their development and preparation for real-world job interviews. By incorporating these elements into the VR interview simulator, the project aligns with the broader educational and technological trends in virtual reality, making it a highly effective tool for both learners and evaluators.
+#### **Slide 3: Methods to Find Information**
+**Question**: *Compare critically two approaches you have used to get information, look at strengths and weaknesses, and indicate the most effective approach for the project.*
 
-Source: **Citeseerx - Experiential Learning in Virtual Environments** (https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c7f8d19850f4a88655fe81caea89912dcad66241)
+- **1. Literature Review and Research**
+  - **Strengths**: Provides a strong theoretical foundation, identifying best practices in VR and interview simulations.
+  - **Weaknesses**: Mostly theoretical and time-intensive, with limited direct application to our project specifics.
+  - **Effectiveness**: Valuable for understanding industry standards and guiding initial project goals.
+
+- **2. Team Brainstorming**
+  - **Strengths**: Encourages creative solutions, real-time idea evaluation, and prioritization based on feasibility.
+  - **Weaknesses**: Risk of groupthink, overwhelming number of ideas can blur project scope.
+  - **Effectiveness**: Highly effective in translating high-level concepts into specific requirements, leading to practical project direction.
+
+- **Most Effective Approach**: **Team Brainstorming** provided actionable ideas and prioritized tasks, directly advancing our development process.
+
+---
+
+#### **Slide 4: Skills Needed for Project Success**
+**Question**: *What skills do you need?*
+
+- **Main Skills Required**:
+  - **VR Development (Unity)**: Needed to create an immersive, interactive VR environment.
+  - **AI/ML Model Development**: Custom models are critical for personalized question generation and CV analysis.
+  - **NLP (Natural Language Processing)**: Essential for handling voice-to-text and text-to-voice interactions.
+
+- **Three Skills to Develop**:
+  - **1. Custom Model Development in AI/ML**
+    - **Reason**: Allows tailored features such as question generation and response evaluation.
+    - **Plan**: Complete online courses, experiment with AI frameworks (e.g., PyTorch).
+
+  - **2. Voice Processing (Voice-to-Text, Text-to-Voice)**
+    - **Reason**: Realistic voice interactions are essential for candidate immersion.
+    - **Plan**: Use open-source libraries (e.g., DeepSpeech) and fine-tune for interview vocabularies.
+
+  - **3. VR Interaction Design in Unity**
+    - **Reason**: Improved VR realism and candidate engagement.
+    - **Plan**: Advanced Unity courses, small VR projects to refine skills in interaction and event handling.
+
+---
+
+#### **Slide 5: Planned Work in the Near Future**
+**Question**: *What work do you intend to carry out in the near future?*
+
+- **Work Priorities**:
+  - **1. Develop the Question Generation Model**
+    - **Justification**: Central to the simulator’s functionality; ensures personalized interview questions.
+    - **Timeline**: To be completed within the first two weeks.
+
+  - **2. Implement the CV Analysis Model**
+    - **Justification**: Supports question generation by providing relevant candidate information.
+    - **Timeline**: Scheduled immediately after question generation; completion expected in the following two weeks.
+
+  - **3. Prototype and Enhance VR Environment in Unity**
+    - **Justification**: Essential for creating a realistic simulation; early completion allows for testing and user feedback.
+    - **Timeline**: Ongoing development, with key components ready by end of first phase.
+
+  - **4. Initial UI Development for Candidate Interaction**
+    - **Justification**: Enables candidate access to the simulator, upload CVs, and start sessions.
+    - **Timeline**: Start in first phase, refine through iterative testing.
+
+- **Link to Schedule**: Each priority aligns with the initial project phase to complete core functionalities, ensuring we meet upcoming deadlines.
+
+---
+
+#### **Slide 6: Summary and Next Steps**
+- **Summary**:
+  - Proposal updates based on feedback have clarified project goals and enhanced functionality.
+  - Brainstorming sessions and prototype testing in Unity proved effective for practical decision-making.
+  - Key skill development areas identified in AI/ML, VR, and voice processing for successful project execution.
+  - Focused work on essential models and VR environment will build a solid foundation for further development.
+
+- **Next Steps**:
+  - Continue AI model development and VR prototyping.
+  - Seek additional feedback on initial UI and functionality to refine user experience.
+
+---
+
+Would you like to include more visuals or any additional details in specific slides?
